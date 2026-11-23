@@ -9,6 +9,8 @@
 >
 > Check: inside `Modules\TAOM-ExtraLoadingScreens` you should see `SubModule.xml` and a `bin` folder right away. If you see another folder of the same name inside instead, move that inner folder into `Modules`.
 
+Website: [minimalcash63.github.io/TAOM-MODS](https://minimalcash63.github.io/TAOM-MODS/), with both TAOM mods and a link to Coodsz's TAOM co-op tools.
+
 Adds extra loading screen pictures to TAOM (Tales from the Age of Men) on Mount & Blade II: Bannerlord 1.5.7. TAOM's own loading pictures stay; the new ones are shown among them, picked at random like TAOM's.
 
 Download: see [Releases](../../releases). Current version: v1.0.0.
