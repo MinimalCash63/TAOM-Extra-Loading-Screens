@@ -3,7 +3,7 @@
 > [!CAUTION]
 > **Important: read this before you download.**
 >
-> 1. Download the mod here: **[TAOM-ExtraLoadingScreens-v1.0.1.zip](https://github.com/MinimalCash63/TAOM-Extra-Loading-Screens/releases/download/v1.0.1/TAOM-ExtraLoadingScreens-v1.0.1.zip)**. It's also under [Releases](https://github.com/MinimalCash63/TAOM-Extra-Loading-Screens/releases/latest), on the right side of this page.
+> 1. Download the mod here: **[TAOM-ExtraLoadingScreens-v1.0.2.zip](https://github.com/MinimalCash63/TAOM-Extra-Loading-Screens/releases/download/v1.0.2/TAOM-ExtraLoadingScreens-v1.0.2.zip)**. It's also under [Releases](https://github.com/MinimalCash63/TAOM-Extra-Loading-Screens/releases/latest), on the right side of this page.
 > 2. Do **not** use the green **Code → Download ZIP** button. It only gives you this page's text and preview pictures, not the mod, so the launcher won't show anything.
 > 3. Open the zip and drag the `TAOM-ExtraLoadingScreens` folder into your Bannerlord `Modules` folder. Done.
 >
@@ -13,11 +13,11 @@ Website: [minimalcash63.github.io/TAOM-MODS](https://minimalcash63.github.io/TAO
 
 Adds extra loading screen pictures to TAOM (Tales from the Age of Men) on Mount & Blade II: Bannerlord 1.5.7. TAOM's own loading pictures stay; the new ones are shown among them, picked at random like TAOM's.
 
-Download: see [Releases](../../releases). Current version: v1.0.1. New in v1.0.1: a message at the main menu when a newer version is out (see "Update notice"). No new pictures.
+Download: see [Releases](../../releases). Current version: v1.0.2. New in v1.0.2: one more picture, by Leonzzz. v1.0.1 added a message at the main menu when a newer version is out (see "Update notice").
 
 ![In game: a picture by Hialdir in TAOM's loading window](docs/preview-hialdir-01.jpg)
 
-Picture by Hialdir. A few more of the 30, as they look in game:
+Picture by Hialdir. A few more of the 31, as they look in game:
 
 | | |
 |---|---|
@@ -26,7 +26,7 @@ Picture by Hialdir. A few more of the 30, as they look in game:
 
 ## The pictures
 
-All 30 pictures are in-game screenshots, taken from the community's screenshots in TAOM's official Discord. Each picture carries its artist's name in the bottom right corner.
+All 31 pictures come from the community's screenshots in TAOM's official Discord. Each picture carries its artist's name in the bottom right corner.
 
 ## Requirements
 
@@ -70,7 +70,7 @@ Open an issue on this repository. Say which TAOM version you use and attach the 
 
 ## Credits
 
-- Loading screen art by: Hialdir; Linden; Caveman; инсайт (insit7151); sid7116; Khamzra Hamûlid, the Two-Crowned; SpaceGuy; Sleepy; Linus; TimeAndSpace; Elendil the Tall; Kysaro; Hircine; TukTuk; Beregond "le Fidèle". The artists posted these pictures in TAOM's official Screenshots channel on Discord. If one of them is yours and you want it changed or removed, open an issue on this repository.
+- Loading screen art by: Hialdir; Linden; Caveman; инсайт (insit7151); sid7116; Khamzra Hamûlid, the Two-Crowned; SpaceGuy; Sleepy; Linus; TimeAndSpace; Elendil the Tall; Kysaro; Hircine; TukTuk; Beregond "le Fidèle"; Leonzzz. The artists posted these pictures in TAOM's official Screenshots channel on Discord. If one of them is yours and you want it changed or removed, open an issue on this repository.
 - Loading window and picture loader: the TAOM team (loading window design by Kysaro). This module only adds pictures to it.
 - Module: MinimalCash63.
 
