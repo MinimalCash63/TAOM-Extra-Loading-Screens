@@ -3,7 +3,7 @@
 > [!CAUTION]
 > **Important: read this before you download.**
 >
-> 1. Download the mod here: **[TAOM-ExtraLoadingScreens-v1.0.0.zip](https://github.com/MinimalCash63/TAOM-Extra-Loading-Screens/releases/download/v1.0.0/TAOM-ExtraLoadingScreens-v1.0.0.zip)**. It's also under [Releases](https://github.com/MinimalCash63/TAOM-Extra-Loading-Screens/releases/latest), on the right side of this page.
+> 1. Download the mod here: **[TAOM-ExtraLoadingScreens-v1.0.1.zip](https://github.com/MinimalCash63/TAOM-Extra-Loading-Screens/releases/download/v1.0.1/TAOM-ExtraLoadingScreens-v1.0.1.zip)**. It's also under [Releases](https://github.com/MinimalCash63/TAOM-Extra-Loading-Screens/releases/latest), on the right side of this page.
 > 2. Do **not** use the green **Code → Download ZIP** button. It only gives you this page's text and preview pictures, not the mod, so the launcher won't show anything.
 > 3. Open the zip and drag the `TAOM-ExtraLoadingScreens` folder into your Bannerlord `Modules` folder. Done.
 >
@@ -13,7 +13,7 @@ Website: [minimalcash63.github.io/TAOM-MODS](https://minimalcash63.github.io/TAO
 
 Adds extra loading screen pictures to TAOM (Tales from the Age of Men) on Mount & Blade II: Bannerlord 1.5.7. TAOM's own loading pictures stay; the new ones are shown among them, picked at random like TAOM's.
 
-Download: see [Releases](../../releases). Current version: v1.0.0.
+Download: see [Releases](../../releases). Current version: v1.0.1. New in v1.0.1: a message at the main menu when a newer version is out (see "Update notice"). No new pictures.
 
 ![In game: a picture by Hialdir in TAOM's loading window](docs/preview-hialdir-01.jpg)
 
@@ -31,7 +31,7 @@ All 30 pictures are in-game screenshots, taken from the community's screenshots 
 ## Requirements
 
 - Mount & Blade II: Bannerlord 1.5.7
-- TAOM 2.0.41, with TAOM.Dependencies
+- TAOM 2.0.41 or newer, with TAOM.Dependencies (checked with 2.0.42)
 
 This module uses the Harmony library bundled in TAOM.Dependencies.
 
@@ -44,6 +44,16 @@ This module uses the Harmony library bundled in TAOM.Dependencies.
 The pictures show only while TAOM's own setting "Themed Loading Screens" is on (Mod Options > TAOM - Tales From the Age of Men > Menus & Loading Screens; on by default). With that setting off, the game's own loading pictures show instead of TAOM's pictures and these.
 
 To remove: untick it in the launcher, or delete the folder. Saves are not affected.
+
+## Update notice
+
+Once per game start, at the main menu, the mod asks GitHub for the newest release number of this mod. When a newer version is out, one message says so, with a button that opens the TAOM Mods website. Each new version is announced once. No internet or an error: nothing shows.
+
+The check is one request to GitHub's public API for this repository's latest release. Like any web request, GitHub sees your IP address. Nothing else is sent.
+
+To turn it off: set `CheckForUpdates=false` in `Documents\Mount and Blade II Bannerlord\Configs\TAOM_ExtraLoadingScreens\settings.txt` (the file is made at the first start).
+
+The notice works from v1.0.1 on, so players on v1.0.0 hear about new versions here or on the website.
 
 ## Co-op
 
